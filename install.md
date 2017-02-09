@@ -1,28 +1,4 @@
-<!DOCTYPE html>
-<html >
-<head>
-    <title>ipa installed on the air</title>
-    <meta charset="UTF-8">
-    <style type="text/css">
-    body{
-        padding: 0;
-        margin: 0;
 
-    }
-    table
-    {
-        width: 100%;
-        border: solid 1px #999;
-        border-collapse:collapse;
-    }
-    table tr,table td
-    {
-        
-        border: solid 1px #999;
-        border-collapse:collapse;
-    }
-</style>
-</head>
 <body>
     <div style="font-size:70px; text-align:center; background-color:#999;height:160px;line-height:160px;">
      微信抢红包免越狱版
@@ -36,10 +12,11 @@
     </tr>
      <tr>
     <td>1</td>
-    <td><a  href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/AsTryE/weichat2.0/master/insatll.plist">微信抢红包免越狱版</a></td>
+    <td>
+    微信抢红包免越狱版[](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/AsTryE/weichat2.0/master/insatll.plist)
+    </td>
     <td>IOS</td>
     </tr>
     <table>
     </div>
 </body>
-</html>
