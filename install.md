@@ -13,7 +13,7 @@
      <tr>
     <td>1</td>
     <td>
-    微信抢红包免越狱版[](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/AsTryE/weichat2.0/master/insatll.plist)
+    <a  href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/AsTryE/weichat2.0/master/insatll.plist">微信抢红包免越狱版</a>
     </td>
     <td>IOS</td>
     </tr>
